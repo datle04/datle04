@@ -59,7 +59,7 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [linkedin.com/in/datle-85a4b3322](www.linkedin.com/in/datle-85a4b3322)
+- 💼 **LinkedIn:** www.linkedin.com/in/datle-85a4b3322
 - 📧 **Email:** [ldat0909@gmail.com](mailto:ldat0909@gmail.com)
 
 ---
