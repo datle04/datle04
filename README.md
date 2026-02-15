@@ -1,40 +1,66 @@
-# Hi there, I'm [Your Name] 👋
-### Junior Frontend Developer | Software Engineer
+# Hi there! I'm Le Tan Dat 🚀
+### Software Engineer | Frontend Specialist | Tech Enthusiast
 
-A passionate Software Engineer from Vietnam 🇻🇳, specializing in building high-quality Web Applications. I love crafting clean code and creating engaging user experiences.
-
----
-
-### 🚀 About Me
-- 🎓 Recently graduated in Information Technology.
-- 🔭 I’m currently working on **[Project Name]**.
-- 🌱 I’m currently deepening my knowledge in **Next.js** and **TypeScript**.
-- ⚡ Fun fact: I enjoy practicing calisthenics to stay sharp after long coding sessions.
-
-### 🛠 Tech Stack
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Tools & Others:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+A dedicated **Software Engineer** focused on building scalable, user-centric web applications. I enjoy tackling complex problems, optimizing performance, and staying up-to-date with the latest industry trends.
 
 ---
 
-### 📊 GitHub Stats
+### 📖 About Me
+- 🎓 **Education:** Graduated in Information Technology from **Nguyen Tat Thanh University**.
+- 🔭 **Current Focus:** Building robust applications using the **MERN Stack** and **Next.js**.
+- 🏗️ **Professional Experience:** Previously interned at **TAKA Solutions**, contributing to the **EcoConnect** project (Zalo Mini App) where I developed both UI and APIs.
+- 💡 **Problem Solving:** Passionate about **Data Structures & Algorithms (DSA)**; I regularly sharpen my skills on LeetCode.
+- ⚡ **Fun Fact:** When I'm not coding, you'll find me practicing **Calisthenics** to maintain discipline and health.
+
+---
+
+### 💻 Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Redux, Zustand, TanStack Query |
+| **Backend** | Node.js, Express, MongoDB, Prisma |
+| **Mobile** | Cocos Creator (Game Dev), Zalo Mini App |
+| **Tools** | Git, Postman, NVM, MongoDB Compass |
+
+---
+
+### 📂 Featured Projects
+
+#### 💎 [FinTrack](https://github.com/datle04/fintrack-frontend) - Personal Finance Manager
+*Developed as a Graduation Project (June 2025 - Dec 2025)*
+- **Tech:** React, Node.js, Express, Typescript, JavaScript, MongoDB, JWT.
+- **Key achievement:** Designed a comprehensive system for tracking expenses, generating reports, and managing personal budgets with high security.
+
+#### 🤝 [EcoConnect](https://github.com/datle04/EcoConnect-Showcase) - Zalo Mini App
+*Internship Project at TAKA Solutions (Oct 2025 - Dec 2025)*
+- **Tech:** React, ZaUI, Node.js, MongoDB, JavaScript, TypeScript.
+- **Key achievement:** Contributed to the development of both the User Interface (UI) and the Back-end APIs, ensuring seamless integration and high performance for the ecosystem..
+
+#### 📝 [JobTracker](https://github.com/datle04/job-application-tracker) - Job Application Tracker
+*Focus: Learning Next.js & Server Components*
+- **Tech:** Next.js (App Router), TypeScript, MongoDB.
+- **Key achievement:** Implemented efficient server-side rendering and optimized database queries.
+
+---
+
+### 📊 GitHub Metrics
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vibrant&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=vibrant" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=datle04&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datle04&theme=tokyonight" alt="GitHub Streak" height="170" />
 </p>
 
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-link])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datle04&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [linkedin.com/in/datle-85a4b3322](www.linkedin.com/in/datle-85a4b3322)
+- 📧 **Email:** [ldat0909@gmail.com](mailto:ldat0909@gmail.com)
+
+---
+*"Code is like humor. When you have to explain it, it’s bad."*
