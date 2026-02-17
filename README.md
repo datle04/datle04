@@ -1,5 +1,5 @@
 # Hi there! I'm Le Tan Dat 🚀
-### Software Engineer | Frontend Specialist | Tech Enthusiast
+### Software Engineer | Frontend Developer | Tech Enthusiast
 
 A dedicated **Software Engineer** focused on building scalable, user-centric web applications. I enjoy tackling complex problems, optimizing performance, and staying up-to-date with the latest industry trends.
 
@@ -20,7 +20,6 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript, TailwindCSS, Redux, Zustand, TanStack Query |
 | **Backend** | Node.js, Express, MongoDB |
-| **Mobile** | Cocos Creator (Game Dev), Zalo Mini App |
 | **Tools** | Git, Postman, NVM, MongoDB Compass |
 
 ---
