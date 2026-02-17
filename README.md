@@ -19,7 +19,7 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript, TailwindCSS, Redux, Zustand, TanStack Query |
-| **Backend** | Node.js, Express, MongoDB, Prisma |
+| **Backend** | Node.js, Express, MongoDB |
 | **Mobile** | Cocos Creator (Game Dev), Zalo Mini App |
 | **Tools** | Git, Postman, NVM, MongoDB Compass |
 
