@@ -16,13 +16,32 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 
 ### 💻 Technical Toolbox
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, TailwindCSS, Redux, Zustand, TanStack Query |
-| **Backend** | Node.js, Express, MongoDB |
-| **Tools** | Git, Postman, NVM, MongoDB Compass |
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
-I am currently learning Cocos Creator to fulfill my passion for game development.
+**Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Game Development (Current Focus)**
+![Cocos](https://img.shields.io/badge/Cocos_Creator-3D3D3D?style=for-the-badge&logo=cocos&logoColor=white)
+
+**Tools & Others**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NVM](https://img.shields.io/badge/NVM-3D3D3D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+<p align="left">
+  <small><i>I am currently learning <b>Cocos Creator</b> to fulfill my passion for game development.</i></small>
+</p>
 ---
 
 ### 📂 Featured Projects
