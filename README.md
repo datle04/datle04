@@ -22,6 +22,7 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 | **Backend** | Node.js, Express, MongoDB |
 | **Tools** | Git, Postman, NVM, MongoDB Compass |
 
+I am currently learning Cocos Creator to fulfill my passion for game development.
 ---
 
 ### 📂 Featured Projects
