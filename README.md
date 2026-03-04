@@ -36,10 +36,6 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 ![NVM](https://img.shields.io/badge/NVM-3D3D3D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
-<p align="left">
-  <small><i>I am currently learning <b>Cocos Creator</b> to fulfill my passion for game development.</i></small>
-</p>
----
 
 ### 📂 Featured Projects
 
