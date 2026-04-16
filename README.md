@@ -10,7 +10,6 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 - 🔭 **Current Focus:** Building robust applications using the **MERN Stack** and **Next.js**.
 - 🏗️ **Professional Experience:** Previously interned at **TAKA Solutions**, contributing to the **EcoConnect** project (Zalo Mini App) where I developed both UI and APIs.
 - 💡 **Problem Solving:** Passionate about **Data Structures & Algorithms (DSA)**; I regularly sharpen my skills on LeetCode.
-- ⚡ **Fun Fact:** When I'm not coding, you'll find me practicing **Calisthenics** to maintain discipline and health.
 
 ---
 
