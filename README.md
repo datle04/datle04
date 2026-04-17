@@ -1,5 +1,5 @@
 # Hi there! I'm Le Tan Dat 🚀
-### Software Engineer | Frontend Developer | Tech Enthusiast
+### Frontend Developer | Software Engineer | Tech Enthusiast
 
 A dedicated **Software Engineer** focused on building scalable, user-centric web applications. I enjoy tackling complex problems, optimizing performance, and staying up-to-date with the latest industry trends.
 
