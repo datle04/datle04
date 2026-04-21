@@ -48,13 +48,6 @@ A dedicated **Software Engineer** focused on building scalable, user-centric web
 - **Tech:** React, ZaUI, Node.js, MongoDB, JavaScript, TypeScript.
 - **Key achievement:** Contributed to the development of both the User Interface (UI) and the Back-end APIs, ensuring seamless integration and high performance for the ecosystem..
 
-#### 📝 [JobTracker](https://github.com/datle04/job-application-tracker) - Job Application Tracker
-*Focus: Learning Next.js & Server Components*
-- **Tech:** Next.js (App Router), TypeScript, MongoDB.
-- **Key achievement:** Implemented efficient server-side rendering and optimized database queries.
-
----
-
 ### 📊 GitHub Metrics
 
 <p align="center">
