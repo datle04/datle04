@@ -8,7 +8,7 @@ A dedicated **Frontend Developer** focused on building scalable, user-centric we
 ### 📖 About Me
 - 🎓 **Education:** Graduated in Information Technology from **Nguyen Tat Thanh University**.
 - 🔭 **Current Focus:** Building robust applications using the **MERN Stack** and **Next.js**.
-- 🏗️ **Professional Experience:** Previously interned at **TAKA Solutions**, currently a **Web Developer** at **WeGrowth**.
+- 🏗️ **Professional Experience:** Currently a **Web Developer** at **WeGrowth**.
 - 💡 **Problem Solving:** Passionate about **Data Structures & Algorithms (DSA)**; I regularly sharpen my skills on LeetCode.
 
 ---
