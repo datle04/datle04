@@ -46,7 +46,7 @@ A dedicated **Frontend Developer** focused on building scalable, user-centric we
 #### 🤝 [EcoConnect](https://github.com/datle04/EcoConnect-Showcase) - Zalo Mini App
 *Internship Project at TAKA Solutions (Oct 2025 - Dec 2025)*
 - **Tech:** React, ZaUI, Node.js, MongoDB, JavaScript, TypeScript.
-- **Key achievement:** Contributed to the development of both the User Interface (UI) and the Back-end APIs, ensuring seamless integration and high performance for the ecosystem..
+- **Key achievement:** Contributed to the development of both the User Interface (UI) and the Backend APIs, ensuring seamless integration and high performance for the ecosystem..
 
 ### 📊 GitHub Metrics
 
