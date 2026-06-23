@@ -51,7 +51,6 @@ A dedicated **Frontend Developer** focused on building scalable, user-centric we
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=datle04&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=datle04&theme=tokyonight" alt="GitHub Streak" height="170" />
 </p>
