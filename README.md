@@ -8,6 +8,7 @@ A dedicated **Frontend Developer** focused on building scalable, user-centric we
 ### 📖 About Me
 - 🎓 **Education:** Graduated in Information Technology from **Nguyen Tat Thanh University**.
 - 🔭 **Current Focus:** Building robust applications using the **MERN Stack** and **Next.js**.
+- 🌱 **Currently Learning:** **Go** for backend development, and **Three.js** for building interactive 3D experiences on the web.
 - 🏗️ **Professional Experience:** Currently a **Web Developer** at **WeGrowth**.
 - 💡 **Problem Solving:** Passionate about **Data Structures & Algorithms (DSA)**; I regularly sharpen my skills on LeetCode.
 
@@ -28,6 +29,10 @@ A dedicated **Frontend Developer** focused on building scalable, user-centric we
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Currently Exploring**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 **Tools & Others**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
