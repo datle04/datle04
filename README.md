@@ -1,20 +1,17 @@
 # Hi there! I'm Le Tan Dat 
 ### Frontend Developer | Tech Enthusiast
 
-A dedicated **Frontend Developer** focused on building scalable, user-centric web applications. I enjoy tackling complex problems, optimizing performance, and staying up-to-date with the latest industry trends.
+I'm currently a Web developer at [WeGrowth](https://wegrowth.com). Day to day I build client sites
+in Next.js and WordPress, which mostly means turning designs into pages that hold up
+on real devices and real content.
+
+Outside of work I'm learning Go for backend work and playing with Three.js,
+because I want to understand what happens on the server side and build web things
+that feel less flat.
 
 ---
 
-### 📖 About Me
-- 🎓 **Education:** Graduated in Information Technology from **Nguyen Tat Thanh University**.
-- 🔭 **Current Focus:** Building robust applications using the **MERN Stack** and **Next.js**.
-- 🌱 **Currently Learning:** **Go** for backend development, and **Three.js** for building interactive 3D experiences on the web.
-- 🏗️ **Professional Experience:** Currently a **Web Developer** at **WeGrowth**.
-- 💡 **Problem Solving:** Passionate about **Data Structures & Algorithms (DSA)**; I regularly sharpen my skills on LeetCode.
-
----
-
-### 💻 Technical Toolbox
+### My Technical Toolbox
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -41,34 +38,20 @@ A dedicated **Frontend Developer** focused on building scalable, user-centric we
 
 ---
 
-### 📂 Featured Projects
+## Projects
 
-#### 💎 [FinTrack](https://github.com/datle04/fintrack-frontend) - Personal Finance Manager
+#### [FinTrack](https://github.com/datle04/fintrack-frontend) - Personal Finance Manager
 *Developed as a Graduation Project (June 2025 - Dec 2025)*
 - **Tech:** React, Node.js, Express, Typescript, JavaScript, MongoDB, JWT.
 - **Key achievement:** Designed a comprehensive system for tracking expenses, generating reports, and managing personal budgets with high security.
 
-#### 🤝 [EcoConnect](https://github.com/datle04/EcoConnect-Showcase) - Zalo Mini App
+#### [EcoConnect](https://github.com/datle04/EcoConnect-Showcase) - Zalo Mini App
 *Internship Project at TAKA Solutions (Oct 2025 - Dec 2025)*
 - **Tech:** React, ZaUI, Node.js, MongoDB, JavaScript, TypeScript.
 - **Key achievement:** Contributed to the development of both the User Interface (UI) and the Backend APIs, ensuring seamless integration and high performance for the ecosystem..
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datle04&theme=tokyonight" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=datle04&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
-</p>
-
----
-
-### 📫 Let's Connect!
-- 💼 **LinkedIn:** https://www.linkedin.com/in/datle04
-- 📧 **Email:** [ldat0909@gmail.com](mailto:ldat0909@gmail.com)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/datle04) · [ldat0909@gmail.com](mailto:ldat0909@gmail.com)
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
