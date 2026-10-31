@@ -48,7 +48,7 @@ that feel less flat.
 #### [EcoConnect](https://github.com/datle04/EcoConnect-Showcase) - Zalo Mini App
 *Internship Project at TAKA Solutions (Oct 2025 - Dec 2025)*
 - **Tech:** React, ZaUI, Node.js, MongoDB, JavaScript, TypeScript.
-- **Key achievement:** Contributed to the development of both the User Interface (UI) and the Backend APIs, ensuring seamless integration and high performance for the ecosystem..
+- **Key achievement:** Contributed to the development of both the User Interface (UI) and the Backend APIs, ensuring seamless integration and high performance for the ecosystem.
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/datle04) · [ldat0909@gmail.com](mailto:ldat0909@gmail.com)
